@@ -1,0 +1,30 @@
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\strawberry.Android.csprojResolveAssemblyReference.cache
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Users\jayejays\documents\visual studio 2017\Projects\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+C:\strawberry\strawberry\strawberry.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
